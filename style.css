@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+}
+
+.judul-nav {
+    margin-left: 3rem;
+    margin-top: 2.4rem;
+    font-size: 1.7rem;    
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Poppins', sans-serif
+}
+
+.judul-nav span {
+    color: #6C48C5;
+}
+
+.kiri {
+    margin-top: 3rem;
+    margin-left: 3rem;
+    display: inline-block;
+}
+
+.kiri a {
+    text-decoration: none;
+    color: #181C14;
+    margin-right: 1.5rem;
+    font-weight: 400;
+    font-size: 1.5rem;
+    display: inline-block;
+}
+
+.kiri a:hover {
+    color: #6C48C5;
+}
+
+.layer1 {
+    margin-top:10rem;
+    display: flex;
+}
+
+.layer1 h1 {
+    padding-left: 8rem;
+    font-size: 4rem;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.layer1 h1 span {
+    font-weight: 645;
+    font-style: italic;
+}
+
+.layer1 h2 {
+    width: 40%;
+    margin-left: 13rem;
+    font-weight: 400;
+    margin-top: 2.8rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.layer1 h2 span {
+    font-weight: bold;
+}
+
+.layer1 hr {
+    width: 40%;
+    margin-left: 13rem;
+    margin-top: 2rem;
+    color: #6C48C5;
+}
+
+.gambar img {
+    width: 700px;
+    height: 500px;
+}
+
+
+
+
+
